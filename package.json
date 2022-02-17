@@ -1,0 +1,25 @@
+{
+    "name": "npm-rafa-pack",
+    "version": "0.1.0",
+    "description": "This Module allows for a dynamic footer to be generated for JS application with an updated year and name.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RafaSadiq/NPM-rafa-pack.git"
+    },
+    "keywords": [
+        "footer"
+    ],
+    "author": "rafa <school.rs.83@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RafaSadiq/NPM-rafa-pack/issues"
+    },
+    "homepage": "https://github.com/RafaSadiq/NPM-rafa-pack#readme",
+    "dependencies": {
+        "moment": "^2.29.1"
+    }
+}
